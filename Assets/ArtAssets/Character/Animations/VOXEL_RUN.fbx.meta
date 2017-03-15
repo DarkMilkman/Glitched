@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 047d259d737506549951ce0bcccb2b71
+timeCreated: 1460044860
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: C_Hand_Left
+    100002: C_Hand_Right
+    100004: C_Root
+    100006: J_Ankle_Left
+    100008: J_Ankle_Right
+    100010: J_Ball_Left
+    100012: J_Ball_Right
+    100014: J_Chest
+    100016: J_Clav_Left
+    100018: J_Clav_Right
+    100020: J_Elbow_Left_FK
+    100022: J_Elbow_Left_IK
+    100024: J_Elbow_Left_RL
+    100026: J_Elbow_Right_FK
+    100028: J_Elbow_Right_IK
+    100030: J_Elbow_Right_RL
+    100032: J_Finger_Left_01
+    100034: J_Finger_Left_02
+    100036: J_Finger_Left_03
+    100038: J_Finger_Right_01
+    100040: J_Finger_Right_02
+    100042: J_Finger_Right_03
+    100044: J_Hand_Left
+    100046: J_Hand_Right
+    100048: J_Head_01
+    100050: J_Head_02
+    100052: J_Hip_Left
+    100054: J_Hip_Right
+    100056: J_Hips_Main_01
+    100058: J_Knee_Left
+    100060: J_Knee_Right
+    100062: J_Neck
+    100064: J_Root
+    100066: J_Shoulder_Left_FK
+    100068: J_Shoulder_Left_IK
+    100070: J_Shoulder_Left_RL
+    100072: J_Shoulder_Right_FK
+    100074: J_Shoulder_Right_IK
+    100076: J_Shoulder_Right_RL
+    100078: J_Spine_01
+    100080: J_Spine_02
+    100082: J_Spine_03
+    100084: J_Thumb_Left_01
+    100086: J_Thumb_Left_02
+    100088: J_Thumb_Left_03
+    100090: J_Thumb_Right_01
+    100092: J_Thumb_Right_02
+    100094: J_Thumb_Right_03
+    100096: J_Toe_Left
+    100098: J_Toe_Right
+    100100: J_Wrist_Left_FK
+    100102: J_Wrist_Left_IK
+    100104: J_Wrist_Left_RL
+    100106: J_Wrist_Right_FK
+    100108: J_Wrist_Right_IK
+    100110: J_Wrist_Right_RL
+    100112: Rig_Group
+    100114: //RootNode
+    100116: Voxel_Teeth_Eyes1:polySurface3
+    400000: C_Hand_Left
+    400002: C_Hand_Right
+    400004: C_Root
+    400006: J_Ankle_Left
+    400008: J_Ankle_Right
+    400010: J_Ball_Left
+    400012: J_Ball_Right
+    400014: J_Chest
+    400016: J_Clav_Left
+    400018: J_Clav_Right
+    400020: J_Elbow_Left_FK
+    400022: J_Elbow_Left_IK
+    400024: J_Elbow_Left_RL
+    400026: J_Elbow_Right_FK
+    400028: J_Elbow_Right_IK
+    400030: J_Elbow_Right_RL
+    400032: J_Finger_Left_01
+    400034: J_Finger_Left_02
+    400036: J_Finger_Left_03
+    400038: J_Finger_Right_01
+    400040: J_Finger_Right_02
+    400042: J_Finger_Right_03
+    400044: J_Hand_Left
+    400046: J_Hand_Right
+    400048: J_Head_01
+    400050: J_Head_02
+    400052: J_Hip_Left
+    400054: J_Hip_Right
+    400056: J_Hips_Main_01
+    400058: J_Knee_Left
+    400060: J_Knee_Right
+    400062: J_Neck
+    400064: J_Root
+    400066: J_Shoulder_Left_FK
+    400068: J_Shoulder_Left_IK
+    400070: J_Shoulder_Left_RL
+    400072: J_Shoulder_Right_FK
+    400074: J_Shoulder_Right_IK
+    400076: J_Shoulder_Right_RL
+    400078: J_Spine_01
+    400080: J_Spine_02
+    400082: J_Spine_03
+    400084: J_Thumb_Left_01
+    400086: J_Thumb_Left_02
+    400088: J_Thumb_Left_03
+    400090: J_Thumb_Right_01
+    400092: J_Thumb_Right_02
+    400094: J_Thumb_Right_03
+    400096: J_Toe_Left
+    400098: J_Toe_Right
+    400100: J_Wrist_Left_FK
+    400102: J_Wrist_Left_IK
+    400104: J_Wrist_Left_RL
+    400106: J_Wrist_Right_FK
+    400108: J_Wrist_Right_IK
+    400110: J_Wrist_Right_RL
+    400112: Rig_Group
+    400114: //RootNode
+    400116: Voxel_Teeth_Eyes1:polySurface3
+    4300000: Voxel_Teeth_Eyes1:polySurface3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Voxel_Teeth_Eyes1:polySurface3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_Root
+        weight: 1
+      - path: Rig_Group
+        weight: 1
+      - path: Rig_Group/J_Root
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Left
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Left/J_Knee_Left
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Left/J_Knee_Left/J_Ankle_Left
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Left/J_Knee_Left/J_Ankle_Left/J_Ball_Left
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Left/J_Knee_Left/J_Ankle_Left/J_Ball_Left/J_Toe_Left
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Right
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Right/J_Knee_Right
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Right/J_Knee_Right/J_Ankle_Right
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Right/J_Knee_Right/J_Ankle_Right/J_Ball_Right
+        weight: 1
+      - path: Rig_Group/J_Root/J_Hips_Main_01/J_Hip_Right/J_Knee_Right/J_Ankle_Right/J_Ball_Right/J_Toe_Right
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_FK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_FK/J_Elbow_Left_FK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_FK/J_Elbow_Left_FK/J_Wrist_Left_FK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_IK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_IK/J_Elbow_Left_IK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_IK/J_Elbow_Left_IK/J_Wrist_Left_IK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL/C_Hand_Left
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL/C_Hand_Left/J_Hand_Left
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL/C_Hand_Left/J_Hand_Left/J_Finger_Left_01
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL/C_Hand_Left/J_Hand_Left/J_Finger_Left_01/J_Finger_Left_02
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL/C_Hand_Left/J_Hand_Left/J_Finger_Left_01/J_Finger_Left_02/J_Finger_Left_03
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL/C_Hand_Left/J_Hand_Left/J_Thumb_Left_01
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL/C_Hand_Left/J_Hand_Left/J_Thumb_Left_01/J_Thumb_Left_02
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Left/J_Shoulder_Left_RL/J_Elbow_Left_RL/J_Wrist_Left_RL/C_Hand_Left/J_Hand_Left/J_Thumb_Left_01/J_Thumb_Left_02/J_Thumb_Left_03
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_FK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_FK/J_Elbow_Right_FK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_FK/J_Elbow_Right_FK/J_Wrist_Right_FK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_IK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_IK/J_Elbow_Right_IK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_IK/J_Elbow_Right_IK/J_Wrist_Right_IK
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL/C_Hand_Right
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL/C_Hand_Right/J_Hand_Right
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL/C_Hand_Right/J_Hand_Right/J_Finger_Right_01
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL/C_Hand_Right/J_Hand_Right/J_Finger_Right_01/J_Finger_Right_02
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL/C_Hand_Right/J_Hand_Right/J_Finger_Right_01/J_Finger_Right_02/J_Finger_Right_03
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL/C_Hand_Right/J_Hand_Right/J_Thumb_Right_01
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL/C_Hand_Right/J_Hand_Right/J_Thumb_Right_01/J_Thumb_Right_02
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Clav_Right/J_Shoulder_Right_RL/J_Elbow_Right_RL/J_Wrist_Right_RL/C_Hand_Right/J_Hand_Right/J_Thumb_Right_01/J_Thumb_Right_02/J_Thumb_Right_03
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Neck
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Neck/J_Head_01
+        weight: 1
+      - path: Rig_Group/J_Root/J_Spine_01/J_Spine_02/J_Spine_03/J_Chest/J_Neck/J_Head_01/J_Head_02
+        weight: 1
+      - path: Rig_Group/Voxel_Teeth_Eyes1:polySurface3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
